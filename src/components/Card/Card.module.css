@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 282px;
+  background-color: var(--cor-cinza);
+  justify-content: space-between;
+  padding: 0 0 .5em 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+.favoritar {
+  width: 25px;
+  padding: 0 0 1em 1em;
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--cor-preto);
+}

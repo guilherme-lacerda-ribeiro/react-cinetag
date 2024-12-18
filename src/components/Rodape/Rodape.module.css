@@ -1,0 +1,16 @@
+footer {
+  background-color: var(--cor-preto);
+  display: flex;
+  justify-content: center;
+
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  max-width: 100%;
+}
+
+footer h2 {
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--cor-branco);
+}
